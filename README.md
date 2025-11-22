@@ -57,5 +57,3 @@ Displays all saved passwords after decrypting them inside a popup window.
 
 ---
 
-## 📂 Project Structure
-
